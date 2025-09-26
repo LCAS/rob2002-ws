@@ -12,7 +12,7 @@ To begin development in a containerized environment:
 
    Alternatively, you may choose to "Fork" the repository ([read here about the differences](https://docs.github.com/en/enterprise-server@2.22/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)). However, if you create a "fork" your repository will be public, which you may want to avoid for assessed work.
 
-   Then, in the next step specify the owner (yourself) and the repository name (e.g. `cmp3103`) you want to create as shown below (You are recommended to make this a _private_ repository until the marking of the assessment is complete):
+   Then, in the next step specify the owner (yourself) and the repository name (e.g. `rob2002`) you want to create as shown below (You are recommended to make this a _private_ repository until the marking of the assessment is complete):
 
    <img width="735" alt="image" src="https://github.com/user-attachments/assets/8b48fb41-d389-432b-80c4-9f623bc3f793">
 
